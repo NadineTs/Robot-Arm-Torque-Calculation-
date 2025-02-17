@@ -2,6 +2,7 @@
 
 
 ## 1. Problem Statement  
+![Image](https://github.com/user-attachments/assets/40b341c3-6028-4d4c-8c38-ef70a6eed8ea)
 To ensure the robotic arm can lift 1 kg, we need to calculate the required torque for each joint and select an appropriate servo motor for each.
 
 ---
@@ -14,12 +15,16 @@ To ensure the robotic arm can lift 1 kg, we need to calculate the required torqu
   - Joint 2: 10 + 4 = 14 cm from the load  
   - Joint 1 (Base): 15 + 14 = 29 cm from the load  
 
-- Force due to weight:
+- Force (F):  
   \[
-  F = m \times g = 1 \times 9.80 = 9.80 \text{ N}
+  F = m \times g = 1 \times 9.81 = 9.81 \text{ N}
   \]
 
----
+## Torque Calculation Formula:
+\[
+T = F \times d
+\]
+
 
 ## 3. Torque Calculation  
 
