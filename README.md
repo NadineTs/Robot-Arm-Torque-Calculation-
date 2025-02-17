@@ -29,7 +29,7 @@ T = F × d
 - Lifting only the 1 kg load  
 - Distance: 4 cm  
 - Required torque:  
-  T3 = 9.80 \times 4 = 39.2  N·cm
+  T3 = 9.80 × 4 = 39.2  N·cm
  
 
 #### Selected Servo Motor:
@@ -44,7 +44,7 @@ T = F × d
 - Lifting Joint 3 + Arm + 1 kg load  
 - Distance: 14 cm  
 - Required torque:  
-  T2 = 9.80 \times 14 = 137.2  N·cm
+  T2 = 9.80 × 14 = 137.2  N·cm
   
 
 #### Selected Servo Motor:
@@ -59,7 +59,7 @@ T = F × d
 - Lifting entire arm + all joints + 1 kg load  
 - Distance: 29 cm  
 - Required torque:  
-  T1 = 9.80 \times 29 = 284.2 N·cm
+  T1 = 9.80 × 29 = 284.2 N·cm
  
 
 #### Selected Servo Motor:
